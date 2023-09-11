@@ -58,9 +58,9 @@ From the research, it was observed that 65.83% of the outputs were relatable, in
 
 To learn more about this project and others:
 
-- *Portfolio*: [aasthakpatel.netlify.app](https://aasthakpatel.netlify.app/)
-- *LinkedIn*: [linkedin.com/in/aasthaketanp/](https://www.linkedin.com/in/aasthaketanp/)
-- *GitHub*: [github.com/aasthaketanp](https://github.com/aasthaketanp)
-- *Resume*: [Aastha Patel's Resume](https://aasthakpatel.netlify.app/images/AasthaPatelResume2024.pdf)
+- [*Portfolio*](https://aasthakpatel.netlify.app/)
+- [*LinkedIn*](https://www.linkedin.com/in/aasthaketanp/)
+- [*GitHub*](https://github.com/aasthaketanp)
+- [*My Resume*](https://aasthakpatel.netlify.app/images/AasthaPatelResume2024.pdf)
 
 ---
